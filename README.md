@@ -69,9 +69,8 @@ Password test results (stored in "/screenshots/").
 ---
 
 ## 📁 Project Structure
-
-Task-6-Password-Security/
 ```
+Password-Security/
 ├── README.md
 ├── password_report.txt
 ├── screenshots/
